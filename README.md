@@ -23,4 +23,5 @@ Uma **aplicação mobile** capaz de oferecer um **cadastro de indivíduos** para
 ### Diagramas
 
 - Modelo de Entidade e Relaciomento
-![] (eer.png)
+
+[](eer.png)
