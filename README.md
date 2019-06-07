@@ -19,3 +19,8 @@ Uma **aplicação mobile** capaz de oferecer um **cadastro de indivíduos** para
 - Permitir a coleta dos registros do **NAT1** diretamente pela **aplicação mobile**
 - Permitir o registro da instalação de um novo **Módulo NAT1**
 - Visualizar os registros e efetuar buscas filtradas
+
+### Diagramas
+
+- Modelo de Entidade e Relaciomento
+![] (eer.png)
