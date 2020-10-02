@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mobilesamm</string>
+    <string name="app_title">Mobile SAMM</string>
+    <string name="login_activity">Login Activity</string>
+    <string name="login_field">Login</string>
+    <string name="password_field">Password</string>
+    <string name="login_button">Submit</string>
+    <string name="especimen_nickname">Nickname</string>
+    <string name="especimen_age">Age</string>
+    <string name="especimen_sex">Sex</string>
+    <string name="especimen_biometric_info">Biometric Info</string>
+    <string name="especimen_tag">Tag Number</string>
+    <string name="empty_tag_number_error_message">Tag Number can not be blank</string>
+
+</resources>
