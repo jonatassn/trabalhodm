@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">msamm</string>
-    <string name="emailField">Email</string>
-    <string name="passwordField">Password</string>
-    <string name="logonButton">Logon</string>
-    <string name="title_activity_individuos">IndividuosActivity</string>
-</resources>
